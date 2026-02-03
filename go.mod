@@ -1,5 +1,6 @@
 module github.com/daviddeepan/GSI
 
+
 go 1.25.6
 
 require (

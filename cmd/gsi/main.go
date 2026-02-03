@@ -123,7 +123,7 @@ func printBanner() {
    ╚═════╝  ╚══════╝ ╚═╝
 
         GSI (GoStackInit)
-        🚀 Bootstrap Go APIs fast
+        --- Bootstrap Go APIs fast ---
 `)
 }
 
