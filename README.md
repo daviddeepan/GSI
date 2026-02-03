@@ -27,8 +27,8 @@ and then generates a ready-to-run project structure for you.
 
 ## 📦 Installation
 
-### Option 1: Run Command
+### Run Command
 
 ```bash
-go run github.com/yourname/GoStackInit/cmd/gsi@latest
+go run github.com/daviddeepan/GSI/cmd/gsi@latest
 ```
